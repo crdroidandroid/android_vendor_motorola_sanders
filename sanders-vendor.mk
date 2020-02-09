@@ -1492,6 +1492,7 @@ PRODUCT_PACKAGES += \
     DTVPlayer \
     DTVService \
     MotCamera2 \
+    MotoSignatureApp \
     qcrilhook \
     ims \
     qcrilmsgtunnel \
