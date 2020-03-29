@@ -1495,6 +1495,7 @@ PRODUCT_PACKAGES += \
     com.qti.snapdragon.sdk.display \
     DTVPlayer \
     DTVService \
+    MotCamera2 \
     qcrilhook \
     ims \
     qcrilmsgtunnel \
