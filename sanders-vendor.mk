@@ -1670,4 +1670,8 @@ PRODUCT_PACKAGES += \
     daxService \
     MotoDolbyV3
 
+PRODUCT_PACKAGES += \
+    MotCamera2 \
+    MotoSignatureApp
+
 PRODUCT_SOONG_NAMESPACES += vendor/motorola/sanders
